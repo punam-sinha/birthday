@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>A Celestial Birthday | Happy Birthday Bhagyashri</title>
+<title>A Celestial Birthday | Happy Birthday Special</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✨</text></svg>">
 <script src="https://cdn.tailwindcss.com/3.4.17"></script>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600&family=Sacramento&display=swap" rel="stylesheet">
@@ -59,7 +59,7 @@ body{background:#09090d;color:#e5e7eb}
   <section class="page active w-full flex-col items-center">
     <div class="text-center mb-8">
       <p class="text-gold-400 font-serif italic tracking-widest text-sm uppercase mb-2">Reserved for someone truly extraordinary</p>
-      <h1 class="text-4xl md:text-6xl font-serif font-light text-white tracking-tight">Happy Birthday, <span class="gold-shimmer-text font-normal">Bhagyashri</span></h1>
+      <h1 class="text-4xl md:text-6xl font-serif font-light text-white tracking-tight">Happy Birthday, <span class="gold-shimmer-text font-normal">Special one</span></h1>
       <p class="text-gray-400 text-sm mt-2 max-w-md mx-auto font-light">Touch the seal to reveal your bespoke greeting, then walk through the surprises made just for you.</p>
     </div>
     <div class="perspective-1000 w-full max-w-md h-[460px] relative select-none">
@@ -112,6 +112,7 @@ body{background:#09090d;color:#e5e7eb}
 
     <button onclick="changeCaptions()" class="mt-6 text-xs px-4 py-2 rounded-full border border-gray-700 bg-gray-900/60 hover:border-gold-400/40 text-gray-300 active:scale-95 transition">✎ Change Notes</button>
   </section>
+  
 
   <!-- PAGE 3: LETTER -->
   <section class="page w-full flex-col items-center">
@@ -122,12 +123,12 @@ body{background:#09090d;color:#e5e7eb}
     </div>
     <div class="glass-card rounded-2xl p-6 sm:p-8 max-w-xl w-full">
       <div class="letter-scroll pr-2 space-y-4 font-serif text-[17px] leading-relaxed text-gray-200">
-        <p class="text-gold-300 italic text-xl">My Best Friend Bhagya,</p>
+        <p class="text-gold-300 italic text-xl">My Best Friend,</p>
         <p>To the girl who turns ordinary days into pure comfort and constant laughter, happy birthday, Bhagyashri! Looking back at everything we’ve shared, I genuinely cannot imagine my life without your chaotic warmth, your endless patience, and that rare kind of loyalty that makes even the toughest days feel manageable. You are the person I run to with random nonsense, frantic rants, unspoken fears, and tiny victories—and no matter what state my mind is in, you always make me feel heard, grounded, and understood.</p>
         <p>Between all our shared giggles that make no sense to anyone else, our spontaneous deep talks, surviving every high and low side by side, and simply knowing each other’s minds without having to utter a single word, you have become so much more than a best friend to me—you are home, peace, and my favorite confidante wrapped into one beautiful soul. You bring so much gentle strength and radiance wherever you go, always lifting the people around you with your kindness and humor.</p>
         <p>On your special day, I hope you see yourself through my eyes and recognize just how extraordinary and irreplaceable you are. I wish you a year bursting with boundless happiness, wild successes, peaceful moments, endless adventures, and every ounce of love your generous heart deserves. Thank you for standing by me through thick and thin, for holding space for me on heavy days, and for never letting me face life's madness alone. Here is to celebrating the wonderful human you are today, and to walking through every tomorrow as each other’s forever rock, loudest cheerleader, and partner-in-crime. Happy birthday, my Bhagyashri! May this new chapter bring you all the magic in the world.</p>
         <p>Thank you for being my safe place, my favourite person, my sister by choice. I love you more than I know how to say.</p>
-        <p class="text-gold-300 italic">Happy Birthday, My BBG. 🤍</p>
+        <p class="text-gold-300 italic">Happy Birthday,🤍</p>
         <div class="pt-3 border-t border-gold-400/20"><p class="text-xs text-gray-500 font-sans">Forever your best friend,</p><p class="font-script text-3xl text-gold-400">Yours Punam</p></div>
       </div>
     </div>
